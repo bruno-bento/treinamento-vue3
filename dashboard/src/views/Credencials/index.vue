@@ -15,7 +15,7 @@
         Instalação e configuração
       </h1>
       <p class="mt-10 text-lg text-gray-800 font-regular">
-        Este aqui é a sua chave de api
+        Este aqui é a sua chave de api!
       </p>
       <content-loader
         v-if="store.Global.isLoading || state.isLoading"
