@@ -12,12 +12,9 @@
   "dependencies": {
     "@tailwindcss/postcss7-compat": "^2.2.17",
     "animate.css": "^4.1.1",
-    "autoprefixer": "^9.8.8",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
-    "postcss": "^7.0.39",
     "postcss-import": "12.0.1",
-    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
     "tiny-emitter": "^2.1.0",
     "vee-validate": "^4.1.9",
     "vue": "^3.0.0",
@@ -36,6 +33,7 @@
     "@vue/eslint-config-standard": "^5.1.2",
     "@vue/test-utils": "^2.0.0-beta.14",
     "@vue/vue3-jest": "^27.0.0-alpha.1",
+    "autoprefixer": "^9.8.8",
     "babel-eslint": "^10.1.0",
     "eslint": "^7.32.0",
     "eslint-plugin-import": "^2.20.2",
@@ -44,6 +42,8 @@
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^7.0.0-0",
     "lint-staged": "^9.5.0",
+    "postcss": "^7.0.39",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
     "typescript": "~3.9.3"
   },
   "gitHooks": {
