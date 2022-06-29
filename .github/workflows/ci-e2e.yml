@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - run: npm install --legacy-peer-deps 
+      - run: npm install
 
       - run: npm run build
         env:
@@ -27,7 +27,7 @@ jobs:
 
       - name: Run project locally
         run: |
-          npm install serve --legacy-peer-deps
+          npm install serve
           $(npm bin)/serve dist -s -p 8080 &
       - name: Run tests
         uses: cypress-io/github-action@v2
