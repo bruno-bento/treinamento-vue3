@@ -30,7 +30,7 @@
     "@vue/test-utils": "^2.0.0-beta.14",
     "@vue/vue3-jest": "^27.0.0",
     "autoprefixer": "^10.4.7",
-    "babel-jest": "^27.0.0",
+    "babel-jest": "^26.0.0",
     "cypress": "^9.7.0",
     "eslint": "^7.12.1",
     "eslint-plugin-import": "^2.22.1",
