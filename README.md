@@ -21,7 +21,7 @@ Componente que é inserido na aplicação de quem deseja receber este Feedback
 *Front-end:* Vue, VueRouter, Conceito de VueX, Axios, TailwindCSS, Postcss,
 AnimateCSS, Custom Hooks
 
-*Test* Jest, Cypress
+*Test:* Jest, Cypress
 
 
 ## Referência
